@@ -1,0 +1,140 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+nav{
+    justify-content: space-between;
+    display: flex;
+}
+nav ul li{
+    color: white;
+    list-style-type: none;
+
+}
+#ul2{
+    font-size: 30px;
+    color : white;
+}
+nav ul{
+    display: flex;
+}
+.s1{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #2D25A0;
+  margin-bottom: 100px;
+}
+.s1-h1{
+    color: white;
+    font-size:45px;
+    font-weight:700;
+    line-height:80px;
+ 
+    
+}
+.s1-h3{
+    background-color:#E02C6D;
+  color: white;
+  padding: 10px 24px;
+
+}
+.s1-h3{
+    font-weight: 200;
+}
+.s1-d1{
+    padding-top: 234px;
+    padding-bottom: 234px;
+}
+.s1-d2 img{
+    padding-top: 134px;
+    padding-bottom: 60px;
+    height: 464px;
+    width: 556px;
+   margin-top: 100px;
+    
+}
+
+
+/*  section 2 */
+
+
+.s2-main-div{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: center;
+  margin: 10%;
+  padding: 50px;
+    
+}
+.s2-common-d{
+    bheight: 474px;
+    width: 280px;
+    left: 180px;
+    top: 747px;
+    border-radius: 0px;
+    padding: 15px;
+    box-shadow: 10px 20px 5px gray;
+    border-radius: 10px;
+    height: 600px;
+    margin: 10px 20px;
+    
+    
+}
+.s2-common-d p{
+    font-size: 16px;
+    font-weight: 0;
+}
+.s2-common-d img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+/* sectuion 3 */
+.s3-main-d{
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding: 100px;
+}
+.s3-d3 img{
+    width: 500px;
+    height: 400px;
+    margin-left: 100px;
+}
+#p1{
+    font-size: 45px;
+}
+/* section 4 */
+.s4{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.s4-d2 iframe{
+height: 500px;
+width: 700px;
+
+}
+.foter-d1 img{
+    height:100px;
+    width: 300px;
+    margin-left: 40%;
+    
+}
+.foter-d1 {
+    justify-content: center;
+}
+.s5-common-d{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 25px;
+}
+.icon{
+    padding: 10px;
+    font-size: 30px;
+}
+#copyright{
+    margin-left: 45%;
+}
